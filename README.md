@@ -1,7 +1,2 @@
-# Leandro Bertoglia
- Primeiro repositório versionado
- Teste de repositório
-Addcionada
-
-Real
+Este são meus primeiros projetos
  
